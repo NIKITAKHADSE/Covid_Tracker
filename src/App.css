@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.card{
+  background: rgb(253, 252, 252) ;
+  padding: 22px;
+  box-sizing: border-box;
+  box-shadow: 0 0 10px 0 rgb(184, 182, 182);
+  border: 1px solid #aca7a7;
+  margin: 20px 40px;
+
+}
+
